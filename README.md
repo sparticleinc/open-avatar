@@ -2,6 +2,10 @@
 
 An AI-powered 2D digital human avatar with intelligent clothing replacement using Live2D and Google Gemini API.
 
+## Try it yourself (2 steps live demo)
+1. https://avatar.gbase.ai/ → name, style, (optional) company URL for auto-branding → Generate (live preview)
+2. Connect a knowledge base so it can actually talk (we use GBase; use whatever)
+
 ## Features
 
 - 🎨 **AI-Powered Clothing Replacement**: Upload clothing images or use text descriptions to automatically replace avatar clothing
