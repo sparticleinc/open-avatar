@@ -10,7 +10,7 @@ let loadedScripts = 0;
 const totalScripts = 3;
 let model4, app;
 
-const cubism4Model = "runtime/mark_free_t04.model3.json";
+const cubism4Model = "runtime/haru_greeter_t05.model3.json";
 
 function notifyLoadComplete() {
     // 触发自定义事件

@@ -23,8 +23,8 @@ except ImportError:
     exit(1)
 
 # Configuration paths
-TEXTURE_PATH = Path("runtime/mark_free_t04.2048/texture_00.png")
-BACKUP_PATH = Path("runtime/mark_free_t04.2048/texture_00_backup.png")
+TEXTURE_PATH = Path("runtime/haru_greeter_t05.2048/texture_01.png")
+BACKUP_PATH = Path("runtime/haru_greeter_t05.2048/texture_01_backup.png")
 
 def backup_texture():
     """Backup original texture file"""

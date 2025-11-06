@@ -114,7 +114,7 @@ Usage:
 Input > red t-shirt with blue jeans
 📝 Using text description: red t-shirt with blue jeans
 🔄 AI is intelligently replacing clothing part...
-✓ New texture saved to: runtime/mark_free_t04.2048/texture_00.png
+✓ New texture saved to: runtime/haru_greeter_t05.2048/texture_01.png
 ✅ Clothing change complete! Texture updated
    💡 Please refresh browser to see the effect
 ```
