@@ -160,6 +160,7 @@ export GEMINI_API_KEY='your_api_key_here'
 - Try more detailed descriptions
 - Use the `restore` command to revert
 - Upload a clearer clothing image
+- If the generated image has abnormal artifacts or extra parts, you can use a background removal service to clean up unwanted elements from the texture
 
 ### Import Errors
 - Make sure all dependencies are installed: `pip install -r requirements.txt`
