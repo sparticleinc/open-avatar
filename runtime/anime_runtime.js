@@ -75,15 +75,3 @@ script5.onload = () => {
 };
 document.head.appendChild(script0);
 
-// 提供给main.js使用的说话函数
-window.avatarSpeak = function(audioUrl, onFinish, onError) {
-    model4.speak(audioUrl, {
-        volume: 1,
-        expression: 4,
-        resetExpression: true,
-        crossOrigin: "anonymous",
-        onFinish: onFinish,
-        onError: onError
-    });
-};
-
